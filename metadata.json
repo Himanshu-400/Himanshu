@@ -1,0 +1,6 @@
+{
+  "name": "StudyNova",
+  "description": "An ultra-premium modern student experience and educational ecosystem with autonomous OMEGA AI Master Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
